@@ -1,19 +1,4 @@
 # coursework-02
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Курсовая работа 
+Демо: https://vue-demo-deploy-aa48d.web.app/
